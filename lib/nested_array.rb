@@ -21,19 +21,7 @@ def assembled_matrix
   # This matrix will represent a produce storage room
   # Organic standards require that organic products be stored ABOVE conventional, not the other way around
   # Make sure conventional produce is first, on the 'zeroth' / 'bottom' shelf
-  assembled_matrix = {
-  organic_produce: ["Strawberries",
-  "Potatoes",
-  "Grapes",
-  "Avocadoes",
-  "Asparagus"]}
-  {conventional_produce:["Grapefruit",
-  "Pineapple",
-  "Oranges",
-  "Watermelon",
-  "Eggplant"]
-  }
-  return assembled_matrix
+  
 end
 
 def sorted_matrix
