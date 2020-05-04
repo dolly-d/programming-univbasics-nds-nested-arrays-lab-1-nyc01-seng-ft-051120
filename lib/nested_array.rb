@@ -31,7 +31,7 @@ def assembled_matrix(organic_produce,conventional_produce)
   "Oranges",
   "Watermelon",
   "Eggplant"]
-  ]
+  
 end
 
 def sorted_matrix
