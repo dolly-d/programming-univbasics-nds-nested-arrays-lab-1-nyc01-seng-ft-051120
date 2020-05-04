@@ -33,7 +33,7 @@ def assembled_matrix
   "Watermelon",
   "Eggplant"]
   }
-  
+  return assembled_matrix
 end
 
 def sorted_matrix
